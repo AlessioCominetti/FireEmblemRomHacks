@@ -1,0 +1,177 @@
+For Temple of Ardesia
+
+Chapter 1-1
+
+Everyone joins at the start
+Nilo, Nila, Nazir, Marcello, Sero.
+
+Chapter 1-2 
+
+Mina: joins at turn 2
+Malitia: joins at turn 2
+Fausta: joins at turn 5
+Piero: joins at turn 5
+Sika: joins at turn 5
+
+Chapter 1-3
+
+Beritian: talk with Nilo or Nila
+Avilian: talk with Nilo or Nila
+Tebetian: talk with Nilo or Nila
+Zari: talk with Nila
+Buguzuru: talk with Zari
+
+Chapter 1-4
+
+Tim: visit sout west house
+Tom: visit sout west house
+Wylson: visit north west house
+Vilnius: enter the map from the inn at turn 5, talk to anybody to recruit him
+
+Chapter 1-5
+
+Nathan: visit south west house
+
+Chapter 1-6
+
+Valida: join at turn 5
+
+Chapter 1-7
+
+Lili: join at the beginning of the chapter
+Mirikon: talk with Lili
+
+Chapter 1-8
+
+Nobody here to recruit
+
+Chapter 1-9
+
+Machali: join at turn 3
+
+Chapter 1-F
+
+Ferdinand: talk with Nilo or Nila, will charge after one turn
+
+Chapter 2-1
+
+New party, everybody joins automatically at the start
+
+Chapter 2-2
+
+Salafir: join at the beginning of the chapter
+Arnand: join at the beginning of the chapter
+Rede: join AFTER the beginning of the chapter
+Rada: join AFTER the beginning of the chapter
+Braga: arrive as reinforcement to destroy villages at turn 8, talk with Ascanio or Silvia
+
+Chapter 2-3
+
+Bastiano: join at the beginning of the chapter
+
+Chapter 2-4
+
+Zomu: talk with Ascanio or Paolus
+Kal: talk with Ascanio or Ribald
+Mira: talk with Ascanio or Ribald
+
+Chapter 2-5
+
+Nobody here to recruit
+
+Chapter 2-F
+
+Tirana: talk with Ascanio
+
+Chapter 3-1
+
+Navari: join at the beginning of the chapter
+Neperi: join at the beginning of the chapter
+
+Chapter 3-2
+
+Salara: talk with Braga
+If several of your units have died, you'll get nameless replacement
+
+Chapter 3-3
+
+Nathan: rejoins at turn 2
+Hejira: joins at turn 2
+Cheyenne: joins at turn 1
+
+Chapter 3-4
+
+Merachea: joins at the beginning of the chapter
+
+Chapter 3-5
+
+Sarimba: joins at turn 2, disappear after the next chapter
+Fiana: joins at the end of the chapter
+
+Chapter 3-F
+
+Franco: talk with Nilo, Nila, Fiana, Ascanio or Merachea to turn it blue
+Sarimba: joins at turn 1, then disappears after this chapter
+If several of your units have died, you'll get nameless replacement
+
+Chapter 4-1
+
+William: joins at the beginning of the chapter
+Durante: joins at the beginning of the chapter
+
+Chapter 4-2
+
+Bah Ased: joins at the end of the chapter if Hejira is dead
+Kurosawa: joins at the end of the chapter if Valida is dead
+Ingress: joins at the end of the chapter if Nathan is dead
+
+Chapter 4-3
+
+Hatinoa: joins at the end of the chapter
+
+Chapter 4-4
+
+Nobody joins here.
+
+Chapter 4-5
+
+Nobody joins here.
+
+Chapter 4-6
+
+Wolfgang: joins at the end of the chapter
+
+Chapter 4-7
+
+Reidun: talk with Nilo, Nila, Avilian, Beritian, Tebetian, Zari, Arnand or Salafir
+
+Chapter 4-8
+
+Nobody joins here.
+
+Chapter 4-x
+
+Nobody joins here.
+
+Chapter 4-xx
+
+Vert: joins at the beginning of the chapter
+
+Gaiden chapter guide
+
+Chapter 1-3x: no prerequisites
+Chapter 1-5x: no prerequisites
+Chapter 1-6x: Valida is alive and you have defeated Gruzna before Fosco
+Chapter 1-7x: no prerequisites
+Chapter 1-8x: no prerequisites
+Chapter 2-5x: Zomu is alive
+Chapter 3-1x: Sika and Machali are alive
+Chapter 3-2x: Mina, Malitia, Fausta, Piero, Bastiano, Lili, Zomu and Paolus are all alive
+Chapter 3-3x: no prerequisites
+Chapter 3-Fx: no prerequisites, the unit gained in chapter 1-7x and 1-8x joins here
+Chapter 4-2x: Navari and Neperi are alive
+Chapter 4-3x: Paolus and Fausta are alive
+Chapter 4-5x: no prerequisites
+Chapter 4-6x: no prerequisites
+Chapter 4-Fx: Zomu and Malitia are alive and you have collected all other legendary weapons
+Chapter 4-Fxx: played rigth after chapter 4-Fx.
