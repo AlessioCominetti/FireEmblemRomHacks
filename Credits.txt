@@ -1,0 +1,104 @@
+General Credits
+
+7743 for Febuilder
+Intelligent System for vanilla fire emblem 8
+the fire emblem community for their support
+My family for their support
+
+Portraits
+
+Husbando Emblem for Nilo's portrait
+KlokGen for the algorytm that makes portraits
+GabrielKnight for Marcello's portrait (after I edited)
+Feier for Piero's
+Lenh for Simulacra and Silvia's
+Ambrosiac for Zimer, Mer Hinga and Sero's
+Miguel Rojo for Arnand
+Unknown for Fausta's
+Int Sys (I made some portraits using splices of other characters)
+Unknown for Nathan
+Kanna for Lenora, Eusebios and Fiana's
+Yang Kai for Samer's
+P33RL355 for Wolfgang
+Capibarainspace for Semil
+Unknown for Ekrian
+Smokeyguy77 for Tebetian
+LaurentLacroix for Persephone
+Kyuzeth for Edge
+Unknown for Miriam
+Unknown for Colga
+Alusq for Vetusio
+
+Maps
+
+Zoramine Fae for chapter 2-4 (Betrayal)
+
+Music
+
+Most music comes from Vanilla fe4,5,6,7,8, Demikids Dark version and from other games.
+The music comes from the repository.
+The music where the games comes from are:
+Breath of fire 2
+Pokemon mistery dungeon
+Actrise 1
+Tear rising saga
+Street Fighter
+I still have to add Demikids music to the repo
+
+Battle animations, map sprites and class cards
+
+Int sys for most of the animations
+Nuramon for champion, great knight, hero, mercenary, wyvern rider, wyvern lord and snipers
+Unknown for Bow general
+SALVAGED for armors, cavaliers and paladins
+Temp for female rogue
+Pikmin for thief knife animation
+Blader for male mirmidon
+Greentea for male swordmaster, male sage, arrow galley and female holy knight
+Gabriel Knight for hoodless mage
+Girls Style for female summoner
+Teraspark for shadow knight
+Unknown for mage knight sword animation
+Unknown for cyclop bow animation
+Aruka for other paladins
+Redbean for a paladin
+eCut for female brigand and female berserker
+Flasuban for male brigand
+Spud for marauder and siege knight
+Der for pirate, archers and male holy knight
+Leos for fighters
+Unknown for Tellius Warrior
+Ayr for deva, harrier and nephalim
+Flasuban for pegasus
+TBA for male sentinel and halberdier
+Rexacuse for female sentinel
+Alusq for deserter
+Vilkalizer for legionary
+Deranger for hunter
+
+Item icons
+
+2WB, Beansy for sword,lance,axe,bow and staff icons
+Sacred Stone for knife icon
+Zelix for stocco
+Celice for ballistas
+2WB, Beansy and Unknown for fire tomes
+Unknown for wind tomes
+2WB for thunder tomes
+Thunder Mage for light tomes
+WhydidImakeThisAccount for purge
+Beansy for flux,luna and nosferatu icons
+Card cafe for items and stat boosters
+Seal Sacred War for gems
+Celice for torch item
+Unknown artist for affinity icon
+
+
+Miscellaneous
+
+Vesly for some Assembly
+Tequila for convoy partition hack
+7743 for fe_builder patches and bug fixing
+
+
+
