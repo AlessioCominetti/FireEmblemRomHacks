@@ -14,19 +14,17 @@ Feier for Piero's
 Lenh for Simulacra and Silvia's
 Ambrosiac for Zimer, Mer Hinga and Sero's
 Miguel Rojo for Arnand
-Unknown for Fausta's
+Xarg for Fausta's and Colga
 Int Sys (I made some portraits using splices of other characters)
-Unknown for Nathan
 Kanna for Lenora, Eusebios and Fiana's
 Yang Kai for Samer's
 P33RL355 for Wolfgang
 Capibarainspace for Semil
-Unknown for Ekrian
-Smokeyguy77 for Tebetian
-LaurentLacroix for Persephone
+Somedenseguy for Ekrian
+smokeyguy77 for Tebetian
+LaurentLacroix for Persephone and Nathan
 Kyuzeth for Edge
-Unknown for Miriam
-Unknown for Colga
+    Unknown for Miriam
 Alusq for Vetusio
 
 Maps
@@ -49,7 +47,7 @@ Battle animations, map sprites and class cards
 
 Int sys for most of the animations
 Nuramon for champion, great knight, hero, mercenary, wyvern rider, wyvern lord and snipers
-Unknown for Bow general
+    Unknown for Bow general
 SALVAGED for armors, cavaliers and paladins
 Temp for female rogue
 Pikmin for thief knife animation
@@ -58,8 +56,8 @@ Greentea for male swordmaster, male sage, arrow galley and female holy knight
 Gabriel Knight for hoodless mage
 Girls Style for female summoner
 Teraspark for shadow knight
-Unknown for mage knight sword animation
-Unknown for cyclop bow animation
+Aruka and Seal for mage knight sword animation
+    Unknown for cyclop bow animation
 Aruka for other paladins
 Redbean for a paladin
 eCut for female brigand and female berserker
@@ -67,7 +65,7 @@ Flasuban for male brigand
 Spud for marauder and siege knight
 Der for pirate, archers and male holy knight
 Leos for fighters
-Unknown for Tellius Warrior
+    Unknown for Tellius Warrior
 Ayr for deva, harrier and nephalim
 Flasuban for pegasus
 TBA for male sentinel and halberdier
