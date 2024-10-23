@@ -98,6 +98,6 @@ Vesly for some Assembly
 Tequila for convoy partition hack
 7743 for fe_builder patches and bug fixing
 Thegis and Jhonny for helping me with the script
-Jhonny and Vivideru for playtesting
+Jhonny, I AM WOLFGANG and Vivideru for playtesting
 
 
